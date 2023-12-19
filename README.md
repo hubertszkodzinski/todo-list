@@ -20,7 +20,7 @@ I created the entire project in React. To style the components, I used Styled Co
 
 ## Features
 
-- Saving, deleting, editing each todo, including updating to the database
+- Saving, deleting, editing each todo, including updating to the database.
 - Possibility to set a todo as completed.
 - Changing the website theme to light or dark depending on user preferences, saving the theme to localStorage.
 - Responsive website adapted to use on any device.
