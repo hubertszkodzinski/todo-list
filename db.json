@@ -1,0 +1,16 @@
+{
+  "todo-list": [
+    {
+      "id": "KQkGDHxB9IYCi3xVNIaIR",
+      "text": "First todo",
+      "createdAt": "2023-12-19T05:13:53.771Z",
+      "isDone": false
+    },
+    {
+      "id": "I6CdZBgZcVY5nsfOIp7sK",
+      "text": "Third todo",
+      "createdAt": "2023-12-19T05:14:50.102Z",
+      "isDone": false
+    }
+  ]
+}
