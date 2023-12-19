@@ -8,7 +8,7 @@ I created the entire project in React. To style the components, I used Styled Co
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
-# Other Tech Stack
+### Other Tech Stack
 
 - @tanstack/react-query
 - react-router-dom
@@ -29,4 +29,22 @@ I created the entire project in React. To style the components, I used Styled Co
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/bYs0pG3.png)
+<br>
+![App Screenshot](https://i.imgur.com/q4j6Chw.png)
+<br>
+![App Screenshot](https://i.imgur.com/EZXZXki.png)
+<br>
+![App Screenshot](https://i.imgur.com/uZNPnqF.png)
+<br>
+![App Screenshot](https://i.imgur.com/jA9foNS.png)
+<br>
+![App Screenshot](https://i.imgur.com/gFzfLaD.png)
+<br>
+![App Screenshot](https://i.imgur.com/8QgocCS.png)
+<br>
+![App Screenshot](https://i.imgur.com/UVzytIg.png)
+<br>
+![App Screenshot](https://i.imgur.com/EaQ0xdg.png)
+<br>
+![App Screenshot](https://i.imgur.com/4vCTNMY.png)
 <br>
