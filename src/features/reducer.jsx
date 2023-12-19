@@ -1,4 +1,3 @@
-import { nanoid } from 'nanoid';
 import { ACTIONS } from './actions';
 
 const todoReducer = (state, action) => {
